@@ -1,13 +1,13 @@
 # Credit Card Fraud Detection Dashboard
 
-A comprehensive data analytics project that builds an AI-powered fraud detection system with interactive PowerBI visualizations.
+A comprehensive data analytics project that builds an AI-powered fraud detection system with interactive Power BI visualisations.
 
 ## 🎯 Project Overview
 
 This project demonstrates end-to-end data analytics skills by:
 - Processing and cleaning financial transaction data
 - Performing exploratory data analysis (EDA)
-- Creating interactive dashboards and visualizations
+- Creating interactive dashboards and visualisations
 - Generating business intelligence reports
 - Providing actionable insights for fraud prevention
 
@@ -44,7 +44,6 @@ Financial Transactions Dataset/
 │   ├── user_risk_profiles.csv   # User risk assessments
 │   └── Fraud_Dashboard.pbix     # PowerBI dashboard file
 ├── data/processed/              # Intermediate processing files
-├── PowerBI_Setup_Guide.md      # Step-by-step setup instructions
 ├── transactions_data.csv        # Raw transaction data
 ├── users_data.csv              # User demographic data
 ├── cards_data.csv              # Credit card information
@@ -67,19 +66,19 @@ Download the raw dataset via Kaggle:
 1. **Download PowerBI Desktop** from [Microsoft](https://powerbi.microsoft.com/desktop/)
 
 2. **Open the Dashboard**
-   - Launch PowerBI Desktop
+   - Launch Power BI Desktop
    - Open `bi/Fraud_Dashboard.pbix`
    - Refresh data if needed
 
 3. **Explore the Dashboard**
    - Navigate through different pages
    - Interact with filters and slicers
-   - Analyze fraud patterns and trends
+   - Analyse fraud patterns and trends
 
 ## 📈 Key Insights
 
 ### Fraud Patterns Discovered
-- **Peak Risk Hours**: 10 AM and 6 PM show highest fraud rates
+- **Peak Risk Hours**: 10 AM and 6 PM show the highest fraud rates
 - **Weekend Vulnerability**: Higher fraud rates on weekends
 - **Amount Thresholds**: Large transactions (>$200) have elevated risk
 - **User Behavior**: Users with unusual spending patterns flagged
@@ -118,21 +117,20 @@ The project includes a complete data analytics pipeline:
 ## 📝 Usage Notes
 
 - Dashboard updates automatically when data refreshes
-- All visualizations are interactive and filterable
+- All visualisations are interactive and filterable
 - Export capabilities available for reports
 - Mobile-responsive design for on-the-go access
 
 ## 🔒 Data Privacy
 
-- All personal identifiers are anonymized
+- All personal identifiers are anonymised
 - Sample dataset for demonstration purposes
 - No real financial data included
 
 ## 📞 Support
 
 For questions or issues:
-- Review the `PowerBI_Setup_Guide.md` for detailed instructions
-- Check PowerBI documentation for visualization help
+- Check Power BI documentation for visualisation help
 - Ensure all CSV files are properly formatted
 
 ## 🏆 Portfolio Value
@@ -141,7 +139,7 @@ This project demonstrates:
 - **Data Analytics**: End-to-end data processing and visualization
 - **Business Intelligence**: Interactive dashboards and KPIs
 - **Domain Knowledge**: Financial fraud detection and risk analysis
-- **Technical Skills**: Python, PowerBI, data visualization, SQL
+- **Technical Skills**: Python, Power BI, data visualisation, SQL
 - **Problem Solving**: Real-world business challenges and insights
 
 
