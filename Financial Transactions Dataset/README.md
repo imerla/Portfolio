@@ -51,6 +51,11 @@ Financial Transactions Dataset/
 └── mcc_codes.json              # Merchant category codes
 ```
 
+## 📥 Data Download
+
+Download the raw dataset via Kaggle:
+- Direct link: `https://www.kaggle.com/api/v1/datasets/download/computingvictor/transactions-fraud-datasets`
+
 ## 🚀 Quick Start
 
 ### Prerequisites
