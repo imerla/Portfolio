@@ -1,92 +1,135 @@
-🎓 Ph.D. in Mathematics | 🧑‍💻 Software & Data Developer | 📊 ML · Python · SQL  
-📍 Washington DC, USA · 📧 imerlishvili18@gmail.com
+🎓 Ph.D. in Mathematics | 🧑‍💻 AI-Powered Data Professional | 📊 Data Analytics · Data Science  
+📍 Washington, DC, USA · 📧 imerlishvili18@gmail.com  
 
 ---
 
 ## 👋 About Me
 
-I’m a mathematician, researcher, and software/data enthusiast with 5+ years of hands-on programming experience. I specialise in building **production-ready applications** using **Python** for backend systems, machine learning prototypes, data analysis, and CLI tools. While Python is my primary language, I also work with **JavaScript**.
+I’m a mathematician and researcher with 5+ years of programming experience, now focusing on **data analytics and data science**. I specialise in using **Python** and **SQL** to turn data into insights, build predictive models, and create interactive dashboards.  
 
-My academic research focused on **advanced mathematical modelling and rigorous problem-solving**, developing complex proofs, and tackling abstract theoretical challenges. These experiences strengthened my **analytical thinking, logical reasoning, and attention to detail**, which are highly relevant to modern **data workflows**: understanding structures, modeling relationships, and deriving insights.  
+As an **AI-powered programmer**, I use tools like **Cursor** and GitHub Copilot to automate repetitive coding tasks, speed up development, and focus on **logic, usability, and results**. This allows me to deliver **clean, production-ready data workflows** more efficiently.  
 
-I use **Cursor**, Git, and modular architecture to keep code structured, testable, and clean—allowing me to focus on **logic, usability, and design** while automating repetitive tasks. Beyond technical skills, I’m a **curious, collaborative, and motivated learner** who enjoys tackling challenging problems and adapting quickly to new environments.
+My PhD in Mathematics trained me to think critically, solve complex problems, and work with abstract models. Combined with my **portfolio of applied data projects**, I bring both **analytical rigour** and **practical coding experience** to data-driven roles.  
 
 ---
 
 ## 🎓 Education
-- **Ph.D. in Mathematics**, Georgian Technical University (2019-2023)  
-- **M.Sc. in Applied Mathematics**, Georgian Technical University (2017-2019)  
-- **B.Sc. in Mathematics**, Ivane Javakhishvili Tbilisi State University (2013-2017)
+- **Ph.D. in Mathematics**, Georgian Technical University (2019–2023)  
+- **M.Sc. in Applied Mathematics**, Georgian Technical University (2017–2019)  
+- **B.Sc. in Mathematics**, Ivane Javakhishvili Tbilisi State University (2013–2017)  
 
 ---
 
 ## 💼 Professional Experience
-
-- **A. Razmadze Mathematical Institute of TSU** — Researcher (07.2022–present)
-- **International Black Sea University** — Invited Professor (02.2023-07.2023)
-- **Georgian Technical University** — Invited Professor (02.2023-07.2023)
-- **Kutaisi International University** — Professor’s Assistant (10.2020–07.2023)
-- **San Diego State University Georgia** — Teaching Assistant (01.2019–05.2021)
+- **A. Razmadze Mathematical Institute of TSU** — Researcher (07.2022–present)  
+- **International Black Sea University** — Invited Lecturer (02.2023–07.2023)  
+- **Georgian Technical University** — Invited Lecturer (02.2023–07.2023)  
+- **Kutaisi International University** — Professor’s Assistant (10.2020–07.2023)  
+- **San Diego State University Georgia** — Teaching Assistant (01.2019–05.2021)  
 
 ---
 
 ## 🧠 What I Bring
 
-✅ Strong analytical and problem-solving skills honed through advanced mathematical research.  
-✅ Experience managing and analysing complex datasets during research projects.  
-✅ Proficiency in Python for computational modelling, simulations, and data manipulation.  
-✅ Ability to translate mathematical concepts into structured code and reproducible workflows.  
-✅ Exposure to statistical and computational methods applicable to data analysis and predictive modelling.  
-✅ Experience mentoring and teaching, with the ability to explain complex quantitative concepts clearly.  
-✅ Familiarity with modular programming practices and code organisation for clarity and scalability. 
+✅ Strong analytical and problem-solving skills honed through advanced mathematics  
+✅ End-to-end data workflows: cleaning, preprocessing, visualisation, and reporting  
+✅ Proficiency in **Python (pandas, scikit-learn, matplotlib, seaborn)** and **SQL**  
+✅ Hands-on experience with **machine learning** (classification, regression, fraud detection)  
+✅ Skilled in building **dashboards and reports** with PowerBI and Python visualization tools  
+✅ Ability to explain complex results clearly through teaching, mentoring, and collaboration  
+✅ AI-assisted programming with tools like **Cursor**, speeding up development while keeping code structured and reproducible  
 
 ---
 
 ## 🧰 Technical Skills
-**Languages:** Python · JavaScript (Canvas, DOM) · SQL · LaTeX  
+**Languages:** Python · SQL · JavaScript · LaTeX  
 **Machine Learning & Data:** scikit-learn · pandas · NumPy · matplotlib · seaborn  
-**Databases & Backend:** MySQL · mysql-connector · tabulate · file I/O  
-**Workflow & Tools:** Git · GitHub · VS Code · Jupyter Notebook · Cursor · modular CLI architecture
+**Databases:** MySQL · mysql-connector · tabulate · file I/O  
+**Visualization & BI:** PowerBI · dashboards · reporting · data storytelling  
+**Workflow & Tools:** Git · GitHub · VS Code · Jupyter Notebook · Cursor  
 
 ---
 
 ## 📁 Featured Projects
 
-### 🎮 Space Shooter Game (JavaScript + Canvas API)
-2D browser-based arcade game with player/enemy movement, collision detection, scoring, and boss mechanics.  
-> **Skills:** Game logic · DOM events · JS animations · Canvas API
+### 💳 Credit Card Fraud Detection Dashboard (Python + Power BI)
+End-to-end data analytics and fraud detection system:  
+- Processed and cleaned financial transaction data  
+- Built a **Random Forest fraud detection model**  
+- Designed an **interactive Power BI dashboard** with KPIs, fraud trends, and risk profiles  
+- Delivered actionable insights for fraud prevention and cost savings  
+
+> **Skills:** Python · pandas · scikit-learn · PowerBI · data visualization · business intelligence  
+
+---
 
 ### 📊 Salary Predictor (Python + ML + CLI)
-Modular ML pipeline comparing **18+ regression & classification models** with auto-visualisation.  
-> **Skills:** scikit-learn · matplotlib · modular ML app · CLI interfaces
+Modular machine learning pipeline for salary classification and regression:  
+- Data preprocessing and feature engineering  
+- Training and comparison of **18+ ML models**  
+- Automatic visualisation of salary trends by company size and experience  
+- Interactive CLI for real-time salary prediction  
 
-### 👥 Employee Management System (Python + MySQL)
-Terminal-based CRUD system with export, promotion logic, and data schema generation.  
-> **Skills:** MySQL · Python DB API · data export · console UI · tabulate
+> **Skills:** scikit-learn · matplotlib · modular ML app · CLI interfaces  
+
+---
 
 ### 🚗 Car Price Prediction (Python + ML)
-Regression-based car price analyser with preprocessing, feature engineering, and visualisations.  
-> **Skills:** pandas · scikit-learn · regression analysis · EDA
+Regression-based car price analyser with multiple models:  
+- Data preprocessing and feature engineering  
+- Regression modelling (Linear, Ridge, SVR, etc.)  
+- Visualisations for correlation, distribution, and feature impact  
 
-### 📚 Virtual Library System (JavaScript + Node.js)
-Console-driven lending system with recommendation logic and borrowing analytics.  
-> **Skills:** JavaScript · data modeling · recommendation engine · CLI app
+> **Skills:** pandas · scikit-learn · exploratory data analysis · regression  
+
+---
+
+### 👥 Employee Management System (Python + MySQL)
+Terminal-based CRUD system for managing employees:  
+- Add, update, delete, search, and promote employees  
+- Export database schema, views, and stored procedures  
+- Console-based UI with tabulated output  
+
+> **Skills:** MySQL · Python DB API · data export · console UI · tabulate  
+
+---
 
 ### 💳 Responsive Banking Dashboard (HTML + CSS + JavaScript)
-Dual-page app with real-time analytics, income/expense tracking, progress bars, and filters.  
-> **Skills:** HTML5 · CSS3 · vanilla JavaScript · DOM manipulation · data analysis
+Responsive banking dashboard with real-time spending analytics:  
+- Dual-page app with **Dashboard** and **Transaction History**  
+- Automatic income/expense summaries and progress tracking  
+- Category-based insights with interactive filters and charts  
+
+> **Skills:** HTML5 · CSS3 · vanilla JavaScript · DOM manipulation · data visualization  
+
+---
+
+### 📚 Virtual Library System (JavaScript + Node.js)
+Console-driven book lending and recommendation engine:  
+- Borrow/return flow with due dates and penalty tracking  
+- Recommends books by analysing borrowing patterns  
+- Search and filter features plus analytics (top-rated, most borrowed)  
+
+> **Skills:** JavaScript · data modeling · recommendation logic · CLI app  
+
+---
+
+### 🎮 Space Shooter Game (JavaScript + Canvas API)
+2D browser-based arcade game with player/enemy movement, collision detection, scoring, and boss mechanics.  
+
+> **Skills:** Game logic · DOM events · JS animations · Canvas API  
 
 ---
 
 ## 🌍 Languages & Communication
 - **Georgian:** Native speaker  
 - **English:** Fluent — taught and mentored at the university level in English  
-- **Russian:** Upper-intermediate (B2)
+- **Russian:** Upper-intermediate (B2)  
 
 ---
 
 ## 🎯 Goals
-- Join a **data analytics, data science, backend, or R&D team**  
-- Apply both **theoretical rigor** and **practical coding** to solve real-world problems  
+- Join a **data analytics or data science** team  
+- Build tools that turn raw data into actionable insights  
 - Continue growing through collaboration, open-source work, and applied research  
-- Build systems that are robust, explainable, and scalable
+- Deliver scalable, explainable, and impactful data solutions  
